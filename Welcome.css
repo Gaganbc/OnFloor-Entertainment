@@ -1,0 +1,54 @@
+.ofe
+{
+    padding-left: 550px;
+    padding-top: 40px;
+    text-align:center;
+}
+.text{
+    color: white;
+    padding-top: 200px;
+}
+
+.welcome1
+{
+    border: black; 
+    border-radius: 60px; 
+    background-color: skyblue; 
+  width: 25%;  
+  /* margin: 35px;  */
+  text-align: center; 
+  padding: 10px; 
+}
+.kk{
+    padding-top: 50px;
+    padding-left: 220px;
+}
+.welcome2
+{
+    border: black; 
+    border-radius: 60px; 
+   background-color: skyblue; 
+  width: 25%; 
+  margin: 30px  0px; 
+  text-align: center;
+  padding: 10px; 
+
+}
+body {
+    background-image: url(../Component/dance\ image.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.button1{
+    background-color: palegoldenrod ;
+    border-radius: 15px;
+}
+.button2{
+    background-color:palegoldenrod ;
+    border-radius: 15px;
+}
+.bodu
+{
+    margin-top: 250px;
+}

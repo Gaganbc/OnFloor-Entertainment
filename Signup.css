@@ -1,0 +1,85 @@
+ .main{ 
+     border: black; 
+     border-radius: 60px;  
+     background-color: beige; 
+     width: 35%; 
+     margin: 70px; 
+     text-align: center; 
+     box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2); 
+ } 
+
+.sub-main{
+    display: block;
+    border-radius: 60px;
+    width: 100%;
+    outline: none;
+    height: 570px;
+    line-height: 60px;
+    border-radius: 4px;
+    padding-top: 30px;
+}
+.login-button{
+    padding-top: 10px;
+    border: #E8D426;
+}
+
+.second-input{
+    border-radius: 200px;
+}
+
+
+.sub-main1{
+    display: block;
+    border-radius: 60px;
+    width: 100%;
+    outline: none;
+    padding-bottom: 10px;
+    line-height: 50px;
+    border-radius: 4px;
+    padding-top: 30px;
+}
+
+input{
+    width: 300px;
+    border-radius: 20px;
+    height: 50px;
+}
+
+
+.sub-main2{
+    display: block;
+    border-radius: 60px;
+    width: 100%;
+    outline: none;
+    line-height: 60px;
+    border-radius: 4px;
+    padding-top: 30px;
+}
+
+.button{
+    background-color: skyblue;
+    border-radius: 15px;
+  }
+  
+  button:hover{background-color:moccasin ;}
+
+
+.login {
+    background-color: skyblue;
+    border-radius: 15px;
+
+}  
+.signup{
+    background-color: skyblue;
+    border-radius: 15px;
+}
+.confirm{
+    background-color: skyblue;
+    border-radius: 15px;
+}
+.login12{
+    background-color: skyblue ;
+    border-radius: 15px;
+}
+
+

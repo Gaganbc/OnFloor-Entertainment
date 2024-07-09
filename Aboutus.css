@@ -1,0 +1,27 @@
+.Aboutus
+{
+    color: white;
+    padding-left: 30px;
+    padding-top: 200px;
+
+}
+.paragraph
+{
+    background-color:white;
+    width: 720px;
+    height: 320px;
+    color: black;
+    border-radius: 60px;
+    padding-left: 22px;
+    padding-top: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
+.au{
+    padding-left: 280px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.one{
+    padding-left: 230px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

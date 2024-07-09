@@ -1,0 +1,68 @@
+.aboutonfloor
+{
+    border: black; 
+    border-radius: 20px; 
+    background-color: whitesmoke; 
+  width: 40%;  
+  text-align: center; 
+  padding: 40px; 
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 20px ;
+ margin-left:140px;
+  margin-top: 10px;
+}
+.oe
+{
+    padding-right: 580px;
+    padding-top: 100px;
+    text-align: center;
+  
+}
+.text{
+    padding: 10px ;
+}
+.Classes
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; 
+    border-radius: 60px; 
+    background-color: lightgreen; 
+  width: 15%;  
+  text-align: center; 
+  padding: 10px; 
+  margin-left: 300px;
+}
+.Classesavailable{
+    background-color:limegreen ;
+    border-radius: 15px;
+}
+.Classes{
+margin-top: 20px;
+}
+.MP
+{
+  padding-top: 20px;
+  padding-left: 55px;
+  background-color:lightgrey;
+  width: 300px;
+  border-radius: 20px;
+  height: 70px;
+}
+.mp{
+  background-color: white;
+  border-radius: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cu{
+  background-color: white;
+  border-radius: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Logout
+{
+  padding-left: 1300px;
+  padding-top: 10px;
+}
+
+.CU{
+  padding-left:10px;
+}

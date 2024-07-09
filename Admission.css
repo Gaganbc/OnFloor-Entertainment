@@ -1,0 +1,48 @@
+.Admission
+{
+ color: white;
+  padding-left: 65px;
+}
+.ad{
+    padding-top: 85px;
+    padding-left: 195px;
+}
+.adio{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.option{
+    color: white;
+    border-radius: 100px;
+}
+.optio{
+    border-radius: 200px;
+}
+.select{
+    border-radius: 500px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.Register{
+    background-color:#32cd32 ;
+    border-radius: 15px;
+}
+.register{
+    padding-left: 110px;
+    padding-top: 20px;
+}
+.RRR{
+     color: white;   font-family: 'Courier New', Courier, monospace;
+}
+.hmm
+{
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.round{
+    padding-left: 30px; 
+}
+.roundr{
+    padding-left: 50px;
+}
+

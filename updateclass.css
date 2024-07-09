@@ -1,0 +1,21 @@
+.form-group
+{
+    color: white;
+
+}
+.editclass
+{
+    border-radius: 20px;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.form-group3
+{
+   padding-left: 350px;
+   padding-top: 20px;
+}
+.form-row
+{
+    padding-left: 200px;
+    padding-top: 250px;
+}

@@ -1,0 +1,24 @@
+.editdetails{
+    color: black;
+    border: black; 
+     border-radius: 60px;  
+     background-color:lightsteelblue; 
+   width: 30%; 
+   margin: 10px; 
+   text-align: center; 
+   box-shadow: 30px 50px rgba(0, 0, 0, 0.2);
+   display: block;
+    height: 150px;
+    padding-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.edit{
+  border-radius: 50px;
+}
+.UD
+{
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
